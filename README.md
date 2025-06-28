@@ -30,7 +30,7 @@
 
 ---
 
-## 🖼️ System Architecture / 系統架構
+## 📱 System Architecture / 系統架構
 
 <img src="images/flowchart.PNG" width="800">
 
@@ -51,8 +51,7 @@
 <img src="images/CandyDiary.png" width="800">
 
 ## APP介紹影片
-<a href="https://www.youtube.com/watch?v=XXXXXXXXXXX">
-  <img src="images/video_thumbnail.png" width="600" alt="Demo Video"/>
-</a>
+🎥 [點我觀看專案展示影片](https://www.youtube.com/watch?v=XXXXXXXXXXX)
+
 
 
