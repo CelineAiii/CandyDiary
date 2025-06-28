@@ -32,7 +32,7 @@
 
 ## 🖼️ System Architecture / 系統架構
 
-<img src="images/homepage.png" width="600">
+<img src="images/flowchart.png" width="600">
 
 ---
 
@@ -48,6 +48,7 @@
 ---
 
 ## 🖼️ 展示畫面（Demo Screenshots）
+<img src="images/CandyDiary.png" width="600">
 
 APP介紹影片
 ![首頁](images/homepage.png)
