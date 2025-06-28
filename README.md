@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ 技術技術
+## 🛠️ 技術
 
 - YOLOv5 – 食品物件偵測  
 - Google Cloud Vision API – OCR 辨識  
