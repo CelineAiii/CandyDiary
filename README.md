@@ -32,7 +32,7 @@
 
 ## 🖼️ System Architecture / 系統架構
 
-<img src="images/flowchart.png" width="600">
+<img src="images/flowchart.PNG" width="800">
 
 ---
 
@@ -48,9 +48,9 @@
 ---
 
 ## 🖼️ 展示畫面（Demo Screenshots）
-<img src="images/CandyDiary.png" width="600">
+<img src="images/CandyDiary.png" width="800">
 
-APP介紹影片
-![首頁](images/homepage.png)
+**APP介紹影片**
+![影片介紹](images/專題介紹影片 - CandyDiary.mov)
 
 
