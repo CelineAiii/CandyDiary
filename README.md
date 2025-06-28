@@ -32,20 +32,7 @@
 
 ## 🖼️ System Architecture / 系統架構
 
-📱 User App (Flutter)
-├─ Frontend UI (Flutter Flow)
-├─ Image Capture
-├─ API Integration
-└─ ChatGPT Daily Quotes
-🧠 Backend Server
-├─ YOLOv5 Object Detection
-├─ Google Cloud OCR
-└─ Food/Label Database
-🗃️ Database
-├─ User Profiles
-├─ Food & Label Records
-├─ Exercise Records
-└─ Daily Logs
+<img src="images/homepage.png" width="600">
 
 ---
 
@@ -62,10 +49,7 @@
 
 ## 🖼️ 展示畫面（Demo Screenshots）
 
-> 📌 請上傳展示圖至 `images/` 資料夾，並在此處嵌入
-
-```markdown
+APP介紹影片
 ![首頁](images/homepage.png)
-![食品辨識](images/food_detection.png)
 
 
