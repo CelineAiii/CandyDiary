@@ -50,7 +50,9 @@
 ## 🖼️ 展示畫面（Demo Screenshots）
 <img src="images/CandyDiary.png" width="800">
 
-**APP介紹影片**
-![影片介紹](images/專題介紹影片 - CandyDiary.mov)
+## APP介紹影片
+<a href="https://www.youtube.com/watch?v=XXXXXXXXXXX">
+  <img src="images/video_thumbnail.png" width="600" alt="Demo Video"/>
+</a>
 
 
